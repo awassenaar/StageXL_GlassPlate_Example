@@ -1,0 +1,7 @@
+name: StageXL_GlassPlate_Example
+author: Arjen Wassenaar
+description: drag and drop example
+dependencies:
+  browser: any
+  stagexl: '>=0.12.0'
+
